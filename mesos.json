@@ -33,11 +33,11 @@
       
       "cpus": 1,
       "mem": 256.0,
-      "instances": 1
-      
+      "instances": 1,
+      "uris":  [
+      "file:///root/docker.tar.gz"
+  ]
     }
   ],
-  "uris":  [
-      "file:///root/file.tar"
-  ]
+  
 }
