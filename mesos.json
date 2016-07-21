@@ -37,4 +37,7 @@
       
     }
   ]
+  "uris":  [
+      "file:///root/file.tar"
+  ]
 }
